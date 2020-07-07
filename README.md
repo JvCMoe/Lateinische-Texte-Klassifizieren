@@ -1,5 +1,6 @@
 # Lateinische-Texte-Klassifizieren
 I have tried to train an artificial neural network to decide, if a given text in latin language is written in the classical time of the roman empire or in the middle ages.
+I have experimented with different types of networks. I have used Python with Tensorflow.
 
 The main result was:
 
