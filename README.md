@@ -7,6 +7,6 @@ The main result was:
 
 2.) Trained with two selected authors, the network is abel to detect the difference, but with clear overfitting. 
 
-The file attached is a zipped directory containing the Python code and all files (including the data) and subdirectories needed. 
+The file "Latein.zip" attached is a zipped directory containing the Python code and all files (including the data) and subdirectories needed. 
 The path, where it is unzipped, must be specified in the code (in the variable provided for this purpose).
 The directory containes also a file "Liesmich" (sorry, it's in german) with further explanations. 
